@@ -1,7 +1,7 @@
 repeat
     wait()
 until game:IsLoaded()
-if game.PlaceId == 113555614146175 then
+if game.PlaceId == 5561417589 then
     World1 = true
 elseif game.PlaceId == 4442272183 then
     World2 = true
