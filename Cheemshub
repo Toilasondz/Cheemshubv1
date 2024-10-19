@@ -139,7 +139,7 @@ end)
 
 local function playSound()
     local sound = Instance.new("Sound", game:GetService("CoreGui"))
-    sound.SoundId = "rbxassetid://"
+    sound.SoundId = "rbxassetid://"135486828057897"
     sound.Volume = 10
     sound:Play()
 end
